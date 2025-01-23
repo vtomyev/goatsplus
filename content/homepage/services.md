@@ -11,7 +11,7 @@ We provide a wide range of services at a fair price in the Tacoma, WA area!
 ### Goat Rental
 
 Get a small heard of goats to clear over grown back yard or small lot of leaves, weeds, and they love the blackberries.  
-Only $100.00 per week with a one time $50.00 transportation charge.  
+Only $200.00 per week with a one time $50.00 transportation charge.  
 **All lots/yards must be fenced in up to 4ft**.  
 If power present, I will provide a hot fence if needed. 
 
@@ -40,7 +40,7 @@ Dump runs $65.00/hr plus dump fee.
 
 ### Tree Removal
 
-We'll cut and remove any falling trees and cut/drop any tree with room to fall (no climbing or topping of trees).  
+We'll cut and remove any falling trees and cut/drop any tree with room to fall.  
 **All jobs must be quoted in person!**
 
 ![](images/tree_removal.webp)
