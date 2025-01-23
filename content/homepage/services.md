@@ -15,11 +15,10 @@ Only $200.00 per week with a one time $50.00 transportation charge.
 **All lots/yards must be fenced in up to 4ft**.  
 If power present, I will provide a hot fence if needed. 
 
+![](images/goats_colage.webp)
+
 ### Goat Viewing Parties
 Check out our goats, they're a lot of fun!
-
-
-![](images/goats_colage.webp)
 
 ### Firewood
 
