@@ -2,10 +2,11 @@
 aptPkgs = ["hugo"]
 
 [ phases.build ]
-cmds = ["hugo --minify"]
+cmds = ["hugo --minify --gc"]
 
 [ environment ]
 HUGO_VERSION = "0.112.3"
+GO_VERSION = "1.19.4"
 
 [[ nixpacks.included_files ]]
 paths = ["/public"]
