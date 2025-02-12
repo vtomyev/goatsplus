@@ -17,8 +17,13 @@ If power present, I will provide a hot fence if needed.
 
 ![](images/goats_colage.webp)
 
-### Goat Viewing Parties
-Check out our goats, they're a lot of fun!
+### Goat Viewing Parties, Birthdays, and other goat filled events
+From their playful antics to their endearing personalities, our goats promise a delightful experience for everyone. Whether you're looking for a fun family outing or a unique way to unwind, our friendly goats are here to brighten your day. Come and meet our charming herd—fun and laughter guaranteed!
+
+* $100/hr for 1-4 goats
+* $50 transportation fee
+
+![](images/goat_watching_parties)
 
 ### Firewood
 
