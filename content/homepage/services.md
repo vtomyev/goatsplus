@@ -23,7 +23,7 @@ From their playful antics to their endearing personalities, our goats promise a 
 * $100/hr for 1-4 goats
 * $50 transportation fee
 
-![](images/goat_watching_parties)
+![](images/goat_watching_parties.jpg)
 
 ### Firewood
 
