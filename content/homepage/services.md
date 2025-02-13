@@ -46,8 +46,7 @@ Dump runs $65.00/hr plus dump fee.
 ![](images/truck_trailer.webp)
 
 ### Tree Removal
-
-We'll cut and remove any falling trees and cut/drop any tree with room to fall.  
+ 
 **All jobs must be quoted in person!**
 
 ![](images/tree_removal.webp)
